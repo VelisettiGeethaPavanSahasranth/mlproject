@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+# whenever you try to install requirements.txt,at that point setup.py file should run to build the packages.
+# to enable that we use -e.
+-e . 
